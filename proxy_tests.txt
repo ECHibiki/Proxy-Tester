@@ -1,40 +1,4 @@
-36.67.90.163:45789	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-92.247.142.14:53281	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-176.31.141.22:21231	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-170.81.141.249:55698	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-31.135.16.69:43876	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-109.121.207.134:38383	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-103.229.247.202:32659	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-103.76.15.238:57900	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-853.175.216.32:53281	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-66.97.37.55:80	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-109.86.184.131:53032	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-186.249.213.101:53482	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-95.31.245.61:59868	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-34.73.62.46:3128	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-176.192.74.234:32590	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-95.31.196.55:52461	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-202.152.54.242:8080	http
-	{'https://stackoverflow.com': 'Success', 'https://www.google.com/': 'Success', 'https://verniy.xyz/': 'Success', 'https://kissu.moe/': 'Success'}
-188.17.152.172:40687	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-177.66.255.175:43413	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
-103.250.166.4:43291	https
-	{'https://stackoverflow.com': 'ProxyError', 'https://www.google.com/': 'ProxyError', 'https://verniy.xyz/': 'ProxyError', 'https://kissu.moe/': 'ProxyError'}
+59.115.36.149:1080	socks5
+	{'https://kissu.moe': 'ProxyConnectionError Error'}
+193.150.121.70:1080	socks4
+	{'https://kissu.moe': 'IOError'}
