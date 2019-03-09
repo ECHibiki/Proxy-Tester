@@ -1,0 +1,6 @@
+*.zip
+prototype/*.txt
+prototype/*.log
+prototype/*.db
+.idea/*
+__pycache__/*
